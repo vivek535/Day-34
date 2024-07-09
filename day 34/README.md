@@ -1,4 +1,4 @@
-# sql_task2
+# SQL TASK DAY 34
 
 Design DB model for Guvi Zen class
 
